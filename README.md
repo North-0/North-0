@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @North-0.
 - 👀 I’m interested in Python, ML, AI.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python ML/AI projects .
+- 💞️ I’m looking to collaborate on Python ML/AI projects.
 - 📫 How to reach me... (coming soon)
 
 <!---
